@@ -8,18 +8,14 @@ tags:
   - read more
   - layout
 #header:
-# overlay_image: /assets/images/pexels-aleksandar-pasaric-325185.jpg
+#  overlay_image: /assets/images/pexels-aleksandar-pasaric-325185.jpg
 #    #caption: "Photo by [Joel Filipe](https://unsplash.com/@joelfilip) on [Unsplash](https://unsplash.com)"
-classes: wide
+# classes: wide
 ---
 
 <p align="center">
-  <img width="660" height="100" src="/assets/images/Autopilot.png">
+  <img width="580" height="360" src="/assets/images/Autopilot.png">
 </p>
-
-# GKE Auto Pilot
-
-
 
 <p>
 <p style="text-align: justify;">
