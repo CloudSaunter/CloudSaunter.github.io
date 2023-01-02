@@ -10,4 +10,4 @@ classes: wide
 ---
 # This page contains the links to the posts which are related to Travel.
 
-[GKE Autopilot](https://cloudsaunter.github.io/googlecloud/initial/googleautopilot/)
+- [GKE Autopilot](https://cloudsaunter.github.io/googlecloud/initial/googleautopilot/)
