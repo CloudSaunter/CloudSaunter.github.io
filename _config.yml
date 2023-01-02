@@ -30,7 +30,7 @@ masthead_title           : #"Walk in the Cloud" # overrides the website title di
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 250
 comments:
-  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
+  provider               : "utterances" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -107,7 +107,7 @@ analytics:
 author:
   name             : "Arundeep B V "
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "I'm a Cloud Architect by Profession. I like to read about Technology and travel."
   location         : "KA02"
   email            :
   links:
