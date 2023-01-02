@@ -1,9 +1,14 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: /achievements/
+  - title: "Google Cloud"
+    url: /googlecloud/
+  - title: "Azure"
+    url: /azure/
+  - title: "Travel"
+    url: /travel/
   - title: "About"
     url: /achievements/
+  
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"

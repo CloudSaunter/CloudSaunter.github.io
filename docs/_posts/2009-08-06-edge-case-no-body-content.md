@@ -1,7 +1,7 @@
 ---
-title: "Edge Case: No Body Content"
+title: "My First Post"
 categories:
-  - Edge Case
+  - Initial Post
 tags:
   - content
   - edge case
