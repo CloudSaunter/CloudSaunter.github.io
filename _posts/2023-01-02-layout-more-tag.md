@@ -3,7 +3,7 @@ title: "Layout: More Tag"
 # excerpt_separator: <!--more-->
 categories:
   - first
-  - Initial
+  - GoogleCloud
 tags:
   - content
   - read more

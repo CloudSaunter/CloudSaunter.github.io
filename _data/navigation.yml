@@ -1,13 +1,22 @@
 # main links
 main:
-  - title: "Google Cloud"
-    url: /googlecloud/
-  - title: "Azure"
-    url: /azure/
-  - title: "Travel"
-    url: /travel/
+ # - title: "Google Cloud"
+ #   url: /googlecloud/
+ # - title: "Azure"
+ #   url: /azure/
+ # - title: "Travel"
+ #   url: /travel/
+
   - title: "About"
     url: /achievements/
+  - title: "Posts"
+    url: /posts/
+  - title: "Categories"
+    url: /portfolio/
+  - title: "Post By Year"
+    url: /year-archive/
+  - title: "Tags"
+    url: /tags/
   
   # - title: "Sample Posts"
   #   url: /year-archive/

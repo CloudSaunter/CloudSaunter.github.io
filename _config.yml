@@ -292,6 +292,7 @@ defaults:
       share: true
       related: true
       show_date: true
+  
 
 comments:
   provider: "utterances"
@@ -299,3 +300,19 @@ comments:
     theme: "github-light" # "github-dark"
     issue_term: "pathname"
     label: "comment" # Optional - must be existing label.
+
+# collections:
+#  portfolio:
+#    output: true
+#    permalink: /:collection/:path/
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
+
+
+

@@ -7,11 +7,18 @@ tags:
   - GoogleCloud
   - read more
   - layout
+
+#toc: true
+# toc_label: "Table Of Contents" # default: Content
+# toc_icon: "heart"  # corresponding Font Awesome icon name without the "fa" prefix
+# toc_sticky: true   # enables sticky toc
+
 #header:
 #  overlay_image: /assets/images/pexels-aleksandar-pasaric-325185.jpg
 #    #caption: "Photo by [Joel Filipe](https://unsplash.com/@joelfilip) on [Unsplash](https://unsplash.com)"
 # classes: wide
 ---
+
 
 <p align="center">
   <img width="580" height="360" src="/assets/images/Autopilot.png">
@@ -25,7 +32,10 @@ Kubernetes is an open-source container-orchestration system for automating compu
 <p style="text-align: justify;">
 Google Kubernetes Engine (GKE) provides a managed environment for deploying, managing, and scaling your containerized applications using Google infrastructure. The GKE environment consists of multiple machines grouped together to form a cluster. When you run a GKE cluster, you get the benefit of advanced cluster management features that Google Cloud provides like the load-balancing, automatic scaling, automatic upgrades of the node software, logging and monitoring among others. You would still need to perform a lot of management like to determine the configurations needed for your production workloads, provision the resources, monitor the health of your nodes, calculate the amount of compute capacity that your workloads require. This would take up considerable amount of time an Kubernetes admin's work.<p>
 
+
+
 <p> <p style="text-align: justify;">
 Some of these manual tasks of managing the GKE can be automated by using a new mode of GKE operation called as the "Auto pilot".Autopilot is a new mode of operation in Google Kubernetes Engine (GKE) that is designed to reduce the operational cost of managing clusters, optimize your clusters for production, and yield higher workload availability. The mode of operation refers to the level of flexibility, responsibility, and control that you have over your cluster. With Autopilot, you no longer have to monitor the health of your nodes or calculate the amount of compute capacity that your workloads require. Autopilot supports most Kubernetes APIs, tools, and its rich ecosystem. You stay within GKE without having to interact with the Compute Engine APIs, CLIs, or UI, as the nodes are not accessible through Compute Engine, like they are in Standard mode. You pay only for the CPU, memory, and storage that your Pods request while they are running. Autopilot clusters are pre-configured with an optimized cluster configuration that is ready for production workloads. This streamlined configuration follows GKE best practices and recommendations for cluster and workload setup and security. Some of these built-in settings are immutable and other optional settings can be turned on or off.<p>
 <p><p style="text-align: justify;">
 In the next blogs I will try to touch upon some of the constraints of moving to the GKE Autopilot, comparing the default and Autopilot mode of operation, Workload limitations and restrictions among other points.<p>
+
