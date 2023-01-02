@@ -10,4 +10,4 @@ classes: wide
 ---
 # This page contains the links to the posts which are related to Travel.
 
-[GKE Autopilot]()
+[link]({{site.url}}/posts/2021-10-21-googleautopilot.md)
