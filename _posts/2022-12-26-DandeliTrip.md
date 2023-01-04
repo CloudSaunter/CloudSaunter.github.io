@@ -34,8 +34,8 @@ The road from Nelamangala till Tumkur is a 4 laned and it is crowded. The road w
 <p align="center">
    <a style='text-decoration: none; color: Black;'> 
   <img width="580" height="360" src="/assets/images/DandeliTrip/ViewFromMyTerrace.jpg">
-  <figcaption align="center">View From My Room Balcony</figcaption> <a>
-
+  <figcaption align="center">View From My Room Balcony</figcaption> </a>
+</p>
 <br>
 
 
@@ -50,7 +50,7 @@ The road from Nelamangala till Tumkur is a 4 laned and it is crowded. The road w
   <a style='text-decoration: none; color: Black;'>
   <img width="580" height="360" src="/assets/images/DandeliTrip/CastleRock1.jpeg">
   <figcaption align="center">Castle Rock Railway Station</figcaption>
-</a>
+</a></p>
 
 <p style="text-align: justify;">
  The Anmod ghat road is very good now and one the way to Colem, we decided to see the sea, and drove towards Panaji. We were lucky to get a room in Goa Marriot in spite of the huge rush in Goa. We reached the hotel around 4PM. We took a boat ride to see the dolphins. Ours was one of the last boats to go on the cruise and we were blessed with one of the beautiful sunsets. We had a nice dinner and called it a day. <P>
@@ -59,7 +59,7 @@ The road from Nelamangala till Tumkur is a 4 laned and it is crowded. The road w
   <img width="580" height="360" src="/assets/images/DandeliTrip/GoaCentralJail.jpeg">
   <figcaption align="center">Goa Central Jail</figcaption>
   
-</a>
+</a></p>
 
 
 
@@ -70,7 +70,7 @@ The road from Nelamangala till Tumkur is a 4 laned and it is crowded. The road w
  <a style='text-decoration: none; color: Black;'>
   <img width="580" height="360" src="/assets/images/DandeliTrip/ViewOfZuvariBridge.jpeg">
   <figcaption align="center">View Of "To be" Inaugurated Zuvari Bridge</figcaption>
-</a>
+</a></p>
 
  <p style="text-align: justify;">
  I wanted to visit the last beach of Goa and we went to the Polem beach. <p>
@@ -80,7 +80,7 @@ The road from Nelamangala till Tumkur is a 4 laned and it is crowded. The road w
   <img width="580" height="360" src="/assets/images/DandeliTrip/PolemBeach.jpeg">
   <figcaption align="center">Poleam Beach</figcaption>
   
-</a>
+</a></p>
 
 <p style="text-align: justify;">
  The beach was very clean and was devoid of any human's. We spend some time on one of the small hotels there and started towards Om Beach. The NH66 is mostly 4 laned and the drive till Gokarna was a breeze.<P>
@@ -92,7 +92,7 @@ The road from Nelamangala till Tumkur is a 4 laned and it is crowded. The road w
  <a style='text-decoration: none; color: Black;'>
  <img  src="/assets/images/DandeliTrip/SunSetOmBeach.jpeg">
  <figcaption align="center">Sunset on Om Beach</figcaption>
-
+</a></p>
 
 
 <p style="text-align: justify;">
@@ -101,3 +101,8 @@ The road from Nelamangala till Tumkur is a 4 laned and it is crowded. The road w
  From Gokarna, I took the NH 766 towards Haveri via Sirshi. The roads are non-existent in the Devimaney ghat. The entire section is under construction and the progress was very slow. The roads get a bit better once you cross Sirshi. The roads are good once you cross SH1 just before Akki Alur. Once you reach Haveri, the roads are straight till Bangalore. I reached home by 3AM. <P>
 <p style="text-align: justify;">
 A one day leisurely trip  turned into a 3 day whirlwind tour. The below map is from my GPS tracker. If anyone is interested I can share the gpx files.<P>
+<p align="center">
+ <a style='text-decoration: none; color: Black;'>
+ <img  src="/assets/images/DandeliTrip/GPSTrack.jpeg">
+ <figcaption align="center">GPS Track Of The Trip</figcaption>
+</a></p>
