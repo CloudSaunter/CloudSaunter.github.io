@@ -53,7 +53,7 @@ The road from Nelamangala till Tumkur is a 4 laned and it is crowded. The road w
 </a></p>
 
 <p style="text-align: justify;">
- The Anmod ghat road is very good now and one the way to Colem, we decided to see the sea, and drove towards Panaji. We were lucky to get a room in Goa Marriot in spite of the huge rush in Goa. We reached the hotel around 4PM. We took a boat ride to see the dolphins. Ours was one of the last boats to go on the cruise and we were blessed with one of the beautiful sunsets. We had a nice dinner and called it a day. <P>
+ The Anmod ghat road is very good now and on the way to Colem, we got an urge to see the sea, and drove towards Panaji. We were lucky to get a room in Goa Marriot in spite of the huge rush in Goa. We reached the hotel around 4PM. We took a boat ride to see the dolphins. Ours was one of the last boats to go on the cruise and we were blessed with one of the beautiful sunsets. We had a nice dinner and called it a day. <P>
  <p align="center">
  <a style='text-decoration: none; color: Black;'>
   <img width="580" height="360" src="/assets/images/DandeliTrip/GoaCentralJail.jpeg">
