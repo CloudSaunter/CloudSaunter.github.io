@@ -19,6 +19,7 @@ header:
   overlay_width: 100%
   overlay_height: 0
   overlay_image: /assets/images/pexels-rostyslav-savchyn-9980959.jpg
+  teaser: /assets/images/pexels-rostyslav-savchyn-9980959.jpg
 ---
 
 

@@ -8,23 +8,19 @@ tags:
   - read more
   - layout
 
-#toc: true
-# toc_label: "Table Of Contents" # default: Content
-# toc_icon: "heart"  # corresponding Font Awesome icon name without the "fa" prefix
-# toc_sticky: true   # enables sticky toc
-
-#header:
-#  overlay_image: /assets/images/pexels-aleksandar-pasaric-325185.jpg
-#    #caption: "Photo by [Joel Filipe](https://unsplash.com/@joelfilip) on [Unsplash](https://unsplash.com)"
-# classes: wide
+header:
+  #overlay_color: "#000"
+  #overlay_filter: "0.5"
+  overlay_width: 100%
+  overlay_height: 50%
+  overlay_image: "../assets/images/Autopilot.png"
+  teaser: "../assets/images/Autopilot.png"
 ---
 
 
-<p align="center">
-  <img width="580" height="360" src="/assets/images/Autopilot.png">
-</p>
 
-<p>
+# GKE Auto Pilot
+
 <p style="text-align: justify;">
 Kubernetes is an open-source container-orchestration system for automating computer application deployment, scaling, and management of micro-service applications. The k8 has enabled the organizations to run the containers and the microservices based architectures with ease. But what about the ease of managing the K8 Cluster? Organizations must go through a steep curve associated with moving to microservices and containers. Scaling the Kubernetes cluster, the complexity of managing the control plane, management of the nodes , the API layer are some of the challenging tasks of maintaining the K8. For the organizations it would make more sense to invest in their time in the development and innovation in building the microservices of their business functions rather than spending time on the management of the like the K8 clusters. One way to achieve this is to move to a managed Kubernetes cluster. From the perspective of the public clouds, there are several Kubernetes services like GKE, EKS or AKS. All these services made the deployment of Kubernetes services easy, but each has its own pro's and con's. Each of these services abstracts the control plane from view and you do not need to worry about maintaining the Kubernetes state. It allows you to not worry about maintaining Kubernetes state or its API. Each managed service abstracts the control plane from view. <p>
 
