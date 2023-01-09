@@ -1,5 +1,5 @@
 ---
-title: "What is Evolutionany Architecure ?"
+title: "What is Evolutionary Architecure ?"
 categories:
   - GoogleCloud
   - Architecture
@@ -20,7 +20,7 @@ header:
   teaser: /assets/images/pexels-mikael-blomkvist-6476270.jpg
 ---
 
-# What is Evolutionany Architecure ?
+# What is Evolutionary Architecure ?
 
 
 The traditional software development lifecycle has followed the waterfall model for a long time. We first do the analysis of the system and we go into planning and requirement gathering phase. The third step is the design of the system. In this section the plans are laid out concerning the physical construction, the hardware, the operating systems, programming, communications and security. These are typically the phases where the architecture of the software is decided.
