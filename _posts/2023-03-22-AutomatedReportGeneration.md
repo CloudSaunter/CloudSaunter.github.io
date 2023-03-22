@@ -24,6 +24,7 @@ header:
 ---
 
 # Automating Reporting on Google Cloud
+
 In today's business world, accurate and timely reporting is essential to making informed decisions. Reporting requirements can be quite complex and time-consuming, but fortunately, with the help of cloud technology, these tasks can be automated, saving businesses valuable time and resources. Google Cloud is one such platform that offers a variety of tools for automating reporting requirements. In this blog, we'll discuss some of the reporting requirements and how they can be automated on Google Cloud.
 
 Infrastructure-as-a-Service (IaaS) on Google Cloud Platform (GCP) provides a comprehensive suite of features for managing and reporting on your cloud infrastructure. In this blog, we'll explore some of the key reporting features available on GCP's IaaS platform.
@@ -39,6 +40,7 @@ Infrastructure-as-a-Service (IaaS) on Google Cloud Platform (GCP) provides a com
 5. **Billing and Cost Optimization:** Managing your cloud costs is critical to ensuring that you don't exceed your budget. Google Cloud provides a comprehensive billing and cost optimization system that can be used to monitor your usage and optimize your spending. You can generate billing reports to track your spending and identify areas where you can save money.
 
 ## Automating Report Generation
+
 Generating reports manually can be time-consuming and error-prone. Fortunately, Google Cloud provides a robust set of APIs that can be used to automate the generation of reports. You can use these APIs to programmatically access your infrastructure data and generate reports in a variety of formats, including CSV, JSON, and HTML. Additionally, there are many third-party tools and libraries available that can be used to automate report generation on Google Cloud.
 
 Terraform is a popular infrastructure-as-code tool that can be used to automate the generation of reports on Google Cloud Platform (GCP). Here are the general steps to follow when using Terraform for report automation:
@@ -58,4 +60,6 @@ Terraform is a popular infrastructure-as-code tool that can be used to automate 
 
 Overall, Terraform provides a powerful way to automate the generation of reports on GCP. By defining report resources and creating scripts to generate reports, you can easily automate the reporting process and ensure that your infrastructure is properly configured, secure, and cost-effective.
 
-In conclusion, reporting requirements can be quite complex and time-consuming, but with the help of Google Cloud, businesses can automate these tasks and save valuable time and resources. Google Cloud offers a variety of tools for automating financial reporting, marketing reporting, sales reporting, inventory reporting, and human resources reporting. By leveraging these
+In conclusion, reporting requirements can be quite complex and time-consuming, but with the help of Google Cloud, businesses can automate these tasks and save valuable time and resources. Google Cloud offers a variety of tools for automating financial reporting, marketing reporting, sales reporting, inventory reporting, and human resources reporting. 
+
+In future blogs, I will discuss how to automate report generation using Terraform.
