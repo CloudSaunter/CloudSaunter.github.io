@@ -23,10 +23,6 @@ header:
   teaser: /assets/images/pexels-mikael-blomkvist-6476270.jpg
 ---
 
--
--
--
-
 # Automating Reporting on Google Cloud
 In today's business world, accurate and timely reporting is essential to making informed decisions. Reporting requirements can be quite complex and time-consuming, but fortunately, with the help of cloud technology, these tasks can be automated, saving businesses valuable time and resources. Google Cloud is one such platform that offers a variety of tools for automating reporting requirements. In this blog, we'll discuss some of the reporting requirements and how they can be automated on Google Cloud.
 
