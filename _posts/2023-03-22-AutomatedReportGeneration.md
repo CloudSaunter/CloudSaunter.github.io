@@ -1,5 +1,5 @@
 ---
-title: "Benifits of Cloud Automation"
+title: "Automating the Report Generation"
 categories:
   - GoogleCloud
   - Architecture
