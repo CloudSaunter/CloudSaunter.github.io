@@ -52,6 +52,7 @@ SPIFFE enables secure communication between workloads through mutual TLS (mTLS).
 ### Step 5 - Integrating with Google Cloud Services
 SPIFFE can be seamlessly integrated with various Google Cloud services. For example, you can leverage the SPIRE agent's workload attestation feature to validate the integrity of your Kubernetes clusters and authenticate the nodes in your Google Kubernetes Engine (GKE) cluster. Additionally, you can integrate SPIFFE with Identity and Access Management (IAM) to enforce access control policies based on workload identities.
 
+
 ## Conclusion:
 Implementing SPIFFE on Google Cloud empowers you to establish a robust and standardized workload identity framework for your distributed systems. By leveraging SPIRE as the central authority, deploying SPIRE agents on your workloads, defining identity registration policies, and enabling mutual TLS communication, you can enhance the security, trust, and compliance of your Google Cloud deployments. With SPIFFE, you can confidently build and operate distributed systems on Google Cloud while ensuring the integrity and authenticity of your workloads.
 
