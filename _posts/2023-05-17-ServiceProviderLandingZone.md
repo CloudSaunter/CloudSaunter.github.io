@@ -30,7 +30,7 @@ header:
 
 # Introduction
 
-As cloud services continue to revolutionize the IT industry, service providers play a pivotal role in delivering scalable, reliable, and secure solutions to their customers. One essential component that empowers service providers to efficiently manage their multi-tenant environments is the Service Provider Landing Zone (SPLZ). In this blog, we will explore the significance of SPLZs, dive into architectural considerations, discuss functional and non-functional requirements, and analyze the pros and cons of implementing this specialized cloud infrastructure for service providers.
+As cloud services continue to revolutionize the IT industry, service providers play a pivotal role in delivering scalable, reliable, and secure solutions to their customers. One essential component that empowers service providers to efficiently manage their multi-tenant environments is the Service Prov ider Landing Zone (SPLZ). In this blog, we will explore the significance of SPLZs, dive into architectural considerations, discuss functional and non-functional requirements, and analyze the pros and cons of implementing this specialized cloud infrastructure for service providers.
 
 ## The Significance of Service Provider Landing Zones
 
