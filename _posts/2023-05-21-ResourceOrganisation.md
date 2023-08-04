@@ -21,14 +21,14 @@ header:
   #overlay_filter: "0.5"
   overlay_width: 100%
   overlay_height: 0
-  overlay_image: /assets/images/IDistributedSystems.jpg
+  overlay_image: /assets/images/DistributedSystems.jpg
   teaser: /assets/images/DistributedSystems.jpg
 ---
 
 
 # Introduction
 
-As organizations embrace the cloud revolution, effective resource organization becomes a pivotal factor in ensuring efficient management, enhanced security, and streamlined resource allocation within the Google Cloud environment. As a professional Google Cloud architect, I understand the significance of selecting the right organization hierarchy. In this blog, we will explore various resource organization alternatives and reveal our recommended strategy for an accountability-based hierarchy that aligns with Kyndryl's perspective.
+As organizations embrace the cloud revolution, effective resource organization becomes a pivotal factor in ensuring efficient management, enhanced security, and streamlined resource allocation within the Google Cloud environment. As a professional Google Cloud architect, I understand the significance of selecting the right organization hierarchy. In this blog, we will explore various resource organization alternatives and reveal the recommended strategy for an accountability-based hierarchy that aligns with Kyndryl's perspective.
 
 ## Understanding Resource Organization on Google Cloud
 
@@ -40,7 +40,7 @@ Resource organization involves structuring and categorizing resources such as vi
 The flat organization offers simplicity with a single-level structure. However, it lacks scalability and fine-grained access control, making it unsuitable for large enterprises with complex resource requirements.
 
 2. Accountability Hierarchy
-In our view, an accountability-based hierarchy offers the ideal solution. By creating dedicated folders or projects for each service, we ensure clear ownership, autonomy, and decentralized resource management. This approach empowers teams with autonomy to tailor configurations to their specific needs while strengthening security with fine-grained IAM controls.
+In my view, an accountability-based hierarchy offers the ideal solution. By creating dedicated folders or projects for each service, we ensure clear ownership, autonomy, and decentralized resource management. This approach empowers teams with autonomy to tailor configurations to their specific needs while strengthening security with fine-grained IAM controls.
 
 3. Project-Based Hierarchy
 This alternative structures resources based on individual projects, which may lead to fragmentation and limited sharing of common services.
